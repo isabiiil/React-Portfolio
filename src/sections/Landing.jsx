@@ -10,6 +10,7 @@ export default function Landing() {
       width: '100vw',
       height: '100vh',
       position: 'absolute',
+      filter: 'blur(8px)',
     },
     center: {
       margin: '0 auto',
